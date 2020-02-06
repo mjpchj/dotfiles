@@ -1,6 +1,6 @@
 if v:version >= 700
 
-    let snips_author = 'Alberon Ltd.'
+    let snips_author = 'Matt Chapman Jones'
 
     if !exists('g:snipMate')
       let g:snipMate = {}
